@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
 </p>
 
----
+<br>
+
 <p align="center"><b>Blog</b></p>
 <p align="center">
   <a href="https://velog.io/@oeanb"><img src="https://img.shields.io/badge/oeanb-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@oeanb"/></a>
