@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <a href="https://velog.io/@oeanb"><img src="https://velog-readme-stats.vercel.app/api/list?name=oeanb"></a>
+  <a href="https://velog.io/@oeanb"></a>
 </p>
