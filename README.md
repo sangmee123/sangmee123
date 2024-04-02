@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Redux-Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
   <br>
+  <img src="https://img.shields.io/badge/Emotion-CC6699?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-components&logoColor=white">
   <br>
