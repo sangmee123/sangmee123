@@ -39,3 +39,7 @@
   <br><br>
   <a href="https://velog.io/@oeanb"><img src="https://img.shields.io/badge/oeanb-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@oeanb"/></a>
 </p>
+
+<p align="center">
+  <a href="https://velog.io/@oeanb"><img src="https://velog-readme-stats.vercel.app/api/list?name=oeanb"></a>
+</p>
